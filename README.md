@@ -21,7 +21,7 @@ This repository provides an overview of the CMPG 332 project. For each individua
 **Repository Name**: CMPG 323 WebApp 37469878  
 **Description**: This repository focuses on developing a web application using .NET C# Blazor. It will follow the Repository Pattern and adhere to SOLID principles.  
 **Link**: [Project 3 Repository](#)  
-**Milestone**: [Project 3 Submission](#) <!-- Replace # with the actual milestone link -->
+**Milestone**: https://github.com/Samiie-ebb/CMPG-323-Overview-37469878/milestone/3
 
 ## Project 4: RPA Testing
 **Repository Name**: CMPG 323 RPA Testing 37469878  
