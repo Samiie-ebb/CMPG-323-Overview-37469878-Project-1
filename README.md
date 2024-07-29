@@ -33,7 +33,7 @@ This repository provides an overview of the CMPG 332 project. For each individua
 **Repository Name**: CMPG 323 Reporting 37469878  
 **Description**: This repository involves reporting, data visualization, and data analysis using Power BI and AI tools.  
 **Link**: [Project 5 Repository](#)  
-**Milestone**: [Project 5 Submission](#) <!-- Replace # with the actual milestone link -->
+**Milestone**: https://github.com/Samiie-ebb/CMPG-323-Overview-37469878/milestone/5
 ## Documentation
 The detailed documentation for all projects can be found [here](#).
 
