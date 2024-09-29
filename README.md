@@ -8,34 +8,24 @@ This repository provides an overview of the CMPG 332 project. For each individua
 ## Project 1: Analysis and Planning
 **Repository Name**: CMPG 323 Overview 37469878  
 **Description**: This repository holds the initial setup and configuration for the CMPG 323 projects. It includes milestones, labels, and a README file with comprehensive instructions.  
-**Link**: [Project 1 Repository](#)  
-**Milestone**: https://github.com/Samiie-ebb/CMPG-323-Overview-37469878/milestone/1
 
 ## Project 2: Web API
 **Repository Name**: CMPG 323 37469878  
 **Description**: This repository contains the implementation of a Web API using .NET C# MVC with JWT Security. It will also cover deployment to Azure.  
-**Link**: [Project 2 Repository](#)  
-**Milestone**: https://github.com/Samiie-ebb/CMPG-323-Overview-37469878/milestone/2
+
 
 ## Project 3: Web Application
 **Repository Name**: CMPG 323 WebApp 37469878  
 **Description**: This repository focuses on developing a web application using .NET C# Blazor. It will follow the Repository Pattern and adhere to SOLID principles.  
-**Link**: [Project 3 Repository](#)  
-**Milestone**: https://github.com/Samiie-ebb/CMPG-323-Overview-37469878/milestone/3
 
 ## Project 4: RPA Testing
 **Repository Name**: CMPG 323 RPA Testing 37469878  
 **Description**: This repository is dedicated to testing automation using RPA with UiPath.  
-**Link**: [Project 4 Repository](#)  
-**Milestone**: https://github.com/Samiie-ebb/CMPG-323-Overview-37469878/milestone/4
 
 ## Project 5: Reporting and Data Visualization
 **Repository Name**: CMPG 323 Reporting 37469878  
 **Description**: This repository involves reporting, data visualization, and data analysis using Power BI and AI tools.  
-**Link**: [Project 5 Repository](#)  
-**Milestone**: https://github.com/Samiie-ebb/CMPG-323-Overview-37469878/milestone/5
-## Documentation
-The detailed documentation for all projects can be found [here](#).
+
 
 ## Branching Strategy
 We will use the Git Flow branching strategy in each project repository. This strategy includes the following branches:
@@ -55,4 +45,21 @@ Each project repository will include a `.gitignore` file to exclude files and di
 ## Storage of Credentials and Sensitive Information
 Credentials and other sensitive information should never be stored directly in the repository. Instead, use environment variables or secret management tools provided by your hosting service (such as Azure Key Vault) to manage these securely. Additionally, ensure that the `.gitignore` file is configured to exclude any files that may contain sensitive information.
 
+## References
+
+The following resources were utilized in the development of this project:
+
+1. **ChatGPT**: Used for conceptual discussions and flow diagram design.
+   - Source: [ChatGPT by OpenAI](https://openai.com/chatgpt)
+
+2. **eFundi Resources**: University-provided resources and tutorials.
+   - Source: eFundi platform materials and tutorials.
+
+3. **GitHub Resources**: Microsoft Learn tutorials and guides for GitHub project management and integrations.
+   - Source: [GitHub on Microsoft Learn](https://learn.microsoft.com/en-us/github)
+
+4. **Entity Framework (EF) and Microsoft Documentation**: Used for learning and implementing Entity Framework Core with .NET.
+   - Source: [Microsoft Learn - Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/)
+
+These references provided key insights into implementing project management, automation, and development strategies.
 ---
